@@ -16,7 +16,7 @@
     <scm>
         <connection>scm:git:git@github.com:Jahia/industrial-website.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/industrial-website.git</developerConnection>
-        <url>https://github.com/Jahia/industrial-websitel</url>
+        <url>https://github.com/Jahia/industrial-website</url>
       <tag>HEAD</tag>
   </scm>
 
