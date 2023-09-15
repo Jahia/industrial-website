@@ -2370,8 +2370,7 @@
                                             jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                             jcr:lastModifiedBy=""
                                             jcr:primaryType="tint:card"
-                                            jcr:uuid="4689f812-b564-4567-917f-35c608aa5fb1"
-                                            linkTarget="_blank">
+                                            jcr:uuid="4689f812-b564-4567-917f-35c608aa5fb1">
                                     <j:translation_en body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;Lily Qwan&lt;/h3&gt;&#xA;&lt;/div&gt;"
                                                       jcr:language="en"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -2430,8 +2429,7 @@
                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                   jcr:lastModifiedBy=""
                                                   jcr:primaryType="tint:card"
-                                                  jcr:uuid="da221a88-1886-479b-826f-e3c5c94b2fac"
-                                                  linkTarget="_blank">
+                                                  jcr:uuid="da221a88-1886-479b-826f-e3c5c94b2fac">
                                     <j:translation_en body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;Mike Richardson&lt;/h3&gt;&#xA;&lt;/div&gt;&#xA;"
                                                       jcr:language="en"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -2454,8 +2452,7 @@
                                                jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                jcr:lastModifiedBy=""
                                                jcr:primaryType="tint:card"
-                                               jcr:uuid="0e4dc29e-56f4-410f-87d0-e7cb7473fdd9"
-                                               linkTarget="_blank">
+                                               jcr:uuid="0e4dc29e-56f4-410f-87d0-e7cb7473fdd9">
                                     <j:translation_en body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;Martha Brown&lt;/h3&gt;&#xA;&lt;/div&gt;"
                                                       jcr:language="en"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -2478,8 +2475,7 @@
                                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                              jcr:lastModifiedBy=""
                                              jcr:primaryType="tint:card"
-                                             jcr:uuid="d829e195-954b-43da-bcb7-442d57e378d5"
-                                             linkTarget="_blank">
+                                             jcr:uuid="d829e195-954b-43da-bcb7-442d57e378d5">
                                     <j:translation_en body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;Kevin Gold&lt;/h3&gt;&#xA;&lt;/div&gt;"
                                                       jcr:language="en"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -3825,8 +3821,7 @@
                                                           jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                           jcr:lastModifiedBy=""
                                                           jcr:primaryType="tint:galleryImage"
-                                                          jcr:uuid="6bce482f-ff07-4466-893a-6549ad50b300"
-                                                          linkTarget="_blank">
+                                                          jcr:uuid="6bce482f-ff07-4466-893a-6549ad50b300">
                                  <j:translation_en heading="Ducting Design in Colorado"
                                                    jcr:language="en"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -3905,8 +3900,7 @@
                                                            jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                            jcr:lastModifiedBy=""
                                                            jcr:primaryType="tint:galleryImage"
-                                                           jcr:uuid="f802f6fb-be51-4693-aee3-4e8c81f72671"
-                                                           linkTarget="_blank">
+                                                           jcr:uuid="f802f6fb-be51-4693-aee3-4e8c81f72671">
                                  <j:translation_en heading="Tanks Project In California"
                                                    jcr:language="en"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -3985,8 +3979,7 @@
                                                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                              jcr:lastModifiedBy=""
                                                              jcr:primaryType="tint:galleryImage"
-                                                             jcr:uuid="b332fc0f-f19a-4974-8558-abfbc2b1fc11"
-                                                             linkTarget="_blank">
+                                                             jcr:uuid="b332fc0f-f19a-4974-8558-abfbc2b1fc11">
                                  <j:translation_en heading="Structural Design in New York"
                                                    jcr:language="en"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -4065,8 +4058,7 @@
                                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                              jcr:lastModifiedBy=""
                                              jcr:primaryType="tint:galleryImage"
-                                             jcr:uuid="44b051b3-484d-4f1b-ab6f-28cb8d643b76"
-                                             linkTarget="_blank">
+                                             jcr:uuid="44b051b3-484d-4f1b-ab6f-28cb8d643b76">
                                  <j:translation_en heading="Stacks Design"
                                                    jcr:language="en"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -4145,8 +4137,7 @@
                                                 jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                 jcr:lastModifiedBy=""
                                                 jcr:primaryType="tint:galleryImage"
-                                                jcr:uuid="a92cddf2-481c-406a-bd26-885758d124bf"
-                                                linkTarget="_blank">
+                                                jcr:uuid="a92cddf2-481c-406a-bd26-885758d124bf">
                                  <j:translation_en heading="Intercate Custom"
                                                    jcr:language="en"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -4225,8 +4216,7 @@
                                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                              jcr:lastModifiedBy=""
                                              jcr:primaryType="tint:galleryImage"
-                                             jcr:uuid="3b05a66b-df1a-4413-b664-4efe5f82718a"
-                                             linkTarget="_blank">
+                                             jcr:uuid="3b05a66b-df1a-4413-b664-4efe5f82718a">
                                  <j:translation_en heading="Banker Design"
                                                    jcr:language="en"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -5286,8 +5276,7 @@
                         jcr:lastModified="2023-04-14T18:58:10.320+02:00"
                         jcr:lastModifiedBy="root"
                         jcr:primaryType="tint:card"
-                        jcr:uuid="34ba2dab-2a6d-48cf-bb83-3f971f5fef98"
-                        linkTarget="_blank">
+                        jcr:uuid="34ba2dab-2a6d-48cf-bb83-3f971f5fef98">
                      <j:translation_en body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;XS (&amp;lt;5 kg)&lt;/h3&gt;&#xA;&#xA;&lt;p class=&#34;lead&#34;&gt;Adapt&amp;eacute; aux plus petits chiens&lt;/p&gt;&#xA;&lt;/div&gt;"
                                        jcr:language="en"
                                        jcr:lastModified="2023-04-14T18:58:10.320+02:00"
@@ -5313,8 +5302,7 @@
                         jcr:lastModified="2023-04-14T18:58:31.589+02:00"
                         jcr:lastModifiedBy="root"
                         jcr:primaryType="tint:card"
-                        jcr:uuid="5b45a087-750a-44bf-b629-f67b49ec8547"
-                        linkTarget="_blank">
+                        jcr:uuid="5b45a087-750a-44bf-b629-f67b49ec8547">
                      <j:translation_en body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;S (5-10 kg)&lt;/h3&gt;&#xA;&#xA;&lt;p class=&#34;lead&#34;&gt;Pour les chiens de petite taille&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;"
                                        jcr:language="en"
                                        jcr:lastModified="2023-04-14T18:58:31.589+02:00"
@@ -5338,8 +5326,7 @@
                         jcr:lastModified="2023-04-14T18:58:52.187+02:00"
                         jcr:lastModifiedBy="root"
                         jcr:primaryType="tint:card"
-                        jcr:uuid="9328d19b-00de-49a1-ab3a-3a31184f99b5"
-                        linkTarget="_blank">
+                        jcr:uuid="9328d19b-00de-49a1-ab3a-3a31184f99b5">
                      <j:translation_en body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;M (10-30 kg)&lt;/h3&gt;&#xA;&#xA;&lt;p class=&#34;lead&#34;&gt;Pour les chiens de taille interm&amp;eacute;diaire&lt;/p&gt;&#xA;&lt;/div&gt;"
                                        jcr:language="en"
                                        jcr:lastModified="2023-04-14T18:59:02.406+02:00"
@@ -5365,8 +5352,7 @@
                         jcr:lastModified="2023-04-14T18:59:16.803+02:00"
                         jcr:lastModifiedBy="root"
                         jcr:primaryType="tint:card"
-                        jcr:uuid="9977b68f-c650-4df5-8cd2-ebed32e46c5b"
-                        linkTarget="_blank">
+                        jcr:uuid="9977b68f-c650-4df5-8cd2-ebed32e46c5b">
                      <j:translation_en body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;L (&amp;gt;30 kg)&lt;/h3&gt;&#xA;&#xA;&lt;p class=&#34;lead&#34;&gt;Pour les plus grandes races&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;"
                                        jcr:language="en"
                                        jcr:lastModified="2023-04-14T18:59:16.803+02:00"
@@ -5418,8 +5404,7 @@
                                       jcr:lastModified="2023-04-14T19:00:05.841+02:00"
                                       jcr:lastModifiedBy="root"
                                       jcr:primaryType="tint:galleryImage"
-                                      jcr:uuid="0641c591-b717-4df6-97f1-3685e2187872"
-                                      linkTarget="_blank">
+                                      jcr:uuid="0641c591-b717-4df6-97f1-3685e2187872">
                      <j:translation_en heading="Dentifrice Element"
                                        jcr:language="en"
                                        jcr:lastModified="2023-04-14T19:00:05.841+02:00"
@@ -5447,8 +5432,7 @@
                               jcr:lastModified="2023-04-14T19:00:41.580+02:00"
                               jcr:lastModifiedBy="root"
                               jcr:primaryType="tint:galleryImage"
-                              jcr:uuid="2e749c53-e5bd-43fe-904f-b423ea4c7d3e"
-                              linkTarget="_blank">
+                              jcr:uuid="2e749c53-e5bd-43fe-904f-b423ea4c7d3e">
                      <j:translation_en heading="Vet Dental"
                                        jcr:language="en"
                                        jcr:lastModified="2023-04-14T19:00:41.580+02:00"
@@ -5476,8 +5460,7 @@
                                                     jcr:lastModified="2023-04-14T19:01:09.920+02:00"
                                                     jcr:lastModifiedBy="root"
                                                     jcr:primaryType="tint:galleryImage"
-                                                    jcr:uuid="795150e0-2a43-41d7-9df5-ddb0ad9ad8e3"
-                                                    linkTarget="_blank">
+                                                    jcr:uuid="795150e0-2a43-41d7-9df5-ddb0ad9ad8e3">
                      <j:translation_en heading="Pack Suite Dentaire Pack Suite Dentaire"
                                        jcr:language="en"
                                        jcr:lastModified="2023-04-14T19:01:09.920+02:00"
