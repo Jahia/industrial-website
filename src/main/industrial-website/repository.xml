@@ -1306,13 +1306,6 @@
                               jcr:primaryType="jnt:translation"
                               jcr:title="Home"
                               jcr:uuid="9018d900-ae08-401c-96e5-b7c8f8bb8dec"/>
-            <j:translation_da jcr:language="da"
-                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                              jcr:lastModifiedBy=""
-                              jcr:mixinTypes="mix:title"
-                              jcr:primaryType="jnt:translation"
-                              jcr:title="Home"
-                              jcr:uuid="e57a11aa-216e-4240-9e34-c3b5f1548e6f"/>
             <j:translation_es jcr:language="es"
                               jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                               jcr:lastModifiedBy=""
@@ -1320,13 +1313,6 @@
                               jcr:primaryType="jnt:translation"
                               jcr:title="Home"
                               jcr:uuid="1f091345-e2d9-49ab-ba0f-4a0dbf3c95a1"/>
-            <j:translation_de_DE jcr:language="de_DE"
-                                 jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                 jcr:lastModifiedBy=""
-                                 jcr:mixinTypes="mix:title"
-                                 jcr:primaryType="jnt:translation"
-                                 jcr:title="Home"
-                                 jcr:uuid="05023766-14e1-49ac-b720-f057859ee7e7"/>
             <header-static-area j:originWS="default"
                                 jcr:created="2023-04-12T16:05:33.158+02:00"
                                 jcr:createdBy="root"
@@ -1547,13 +1533,6 @@
                               jcr:primaryType="jnt:translation"
                               jcr:title="Sample sites"
                               jcr:uuid="c6392537-5a01-4765-9b2d-ccfe20167208"/>
-            <j:translation_de_DE jcr:language="de_DE"
-                                 jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                 jcr:lastModifiedBy=""
-                                 jcr:mixinTypes="mix:title"
-                                 jcr:primaryType="jnt:translation"
-                                 jcr:title="Sample sites"
-                                 jcr:uuid="728fbb92-1bbd-4f6c-a3e1-997f99f46629"/>
             <industrial-template-overview j:originWS="default"
                                           j:templateName="free"
                                           jcr:created="2023-04-12T16:05:24.909+02:00"
@@ -1614,13 +1593,6 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="About Template Overview"
                                     jcr:uuid="b6149b08-7a79-41f0-a6dc-f79af930cfd1"/>
-                  <j:translation_da jcr:language="da"
-                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                    jcr:lastModifiedBy=""
-                                    jcr:mixinTypes="mix:title"
-                                    jcr:primaryType="jnt:translation"
-                                    jcr:title="About Template Overview"
-                                    jcr:uuid="e5f1eec5-4178-41ba-a1de-e258705b1f85"/>
                   <j:translation_es jcr:language="es"
                                     jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                     jcr:lastModifiedBy=""
@@ -1628,13 +1600,6 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="About Template Overview"
                                     jcr:uuid="65d35c45-df90-45be-8bd5-2b2ee9c1ae53"/>
-                  <j:translation_de_DE jcr:language="de_DE"
-                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                       jcr:lastModifiedBy=""
-                                       jcr:mixinTypes="mix:title"
-                                       jcr:primaryType="jnt:translation"
-                                       jcr:title="About Template Overview"
-                                       jcr:uuid="971ceca7-38c1-4598-be15-40f106155edd"/>
                   <pagecontent j:originWS="default"
                                jcr:created="2023-04-12T16:05:24.911+02:00"
                                jcr:createdBy="system"
@@ -1680,24 +1645,12 @@
                                           jcr:lastModifiedBy=""
                                           jcr:primaryType="jnt:translation"
                                           jcr:uuid="3a83c820-5d5d-430e-bcc7-3f60c8e5d3bc"/>
-                        <j:translation_da body="&lt;h1 class=&#34;pt-5&#34;&gt;&lt;span&gt;About Us&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero sit, saepe? Rem, libero repellendus eum.&lt;/p&gt;&#xA;"
-                                          jcr:language="da"
-                                          jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                          jcr:lastModifiedBy=""
-                                          jcr:primaryType="jnt:translation"
-                                          jcr:uuid="1388d617-c654-45c0-811d-3dd60890d936"/>
                         <j:translation_es body="&lt;h1 class=&#34;pt-5&#34;&gt;&lt;span&gt;About Us&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero sit, saepe? Rem, libero repellendus eum.&lt;/p&gt;&#xA;"
                                           jcr:language="es"
                                           jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                           jcr:lastModifiedBy=""
                                           jcr:primaryType="jnt:translation"
                                           jcr:uuid="f5e7cbd5-4044-42f0-a7c7-54025e600ad7"/>
-                        <j:translation_de_DE body="&lt;h1 class=&#34;pt-5&#34;&gt;&lt;span&gt;About Us&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero sit, saepe? Rem, libero repellendus eum.&lt;/p&gt;&#xA;"
-                                             jcr:language="de_DE"
-                                             jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                             jcr:lastModifiedBy=""
-                                             jcr:primaryType="jnt:translation"
-                                             jcr:uuid="1198736d-e37c-4fb5-adf0-08a7bb02de8e"/>
                      </heading>
                      <half-block-content-right imagePosition="left"
                                                j:originWS="default"
@@ -1862,25 +1815,13 @@
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="6b203df0-1c10-47bb-aa2e-abdbbbb843ac"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-notifications text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Modern Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_da jcr:language="da"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="2ec55aa7-e7e8-41da-abc8-942321e951a8"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-notifications text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Modern Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                     <j:translation_es jcr:language="es"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                       jcr:lastModifiedBy=""
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="86ad5da5-5335-4cea-b1df-1d399b4cb431"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-notifications text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Modern Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_de_DE jcr:language="de_DE"
-                                                         jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                         jcr:lastModifiedBy=""
-                                                         jcr:primaryType="jnt:translation"
-                                                         jcr:uuid="8849cc11-e534-4580-b209-4f521bd6216c"
-                                                         text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-notifications text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Modern Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 </text>
+                                    </text>
                               </col0>
                               <col1 j:animation="fadeInUp"
                                     j:animationDelay="0.1"
@@ -1931,24 +1872,12 @@
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="b3f03e5d-627d-46b6-9a2b-4f51791e4d46"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-heart text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Built With Passion&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_da jcr:language="da"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="295b4800-420c-4d5d-bfbc-218f5fd718d5"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-heart text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Built With Passion&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                     <j:translation_es jcr:language="es"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                       jcr:lastModifiedBy=""
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="36fdcc62-2ef5-4ef4-81d8-d61146782b0b"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-heart text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Built With Passion&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_de_DE jcr:language="de_DE"
-                                                         jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                         jcr:lastModifiedBy=""
-                                                         jcr:primaryType="jnt:translation"
-                                                         jcr:uuid="414328a4-40cf-4838-9896-968b663ca736"
-                                                         text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-heart text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Built With Passion&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  </text>
                               </col1>
                               <col2 j:animation="fadeInUp"
@@ -2000,24 +1929,12 @@
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="f7bfcc06-67b7-421f-8582-9ce655916f6f"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-flash text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Fast Loading&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_da jcr:language="da"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="87ca15ca-1c54-4c53-b5aa-069f089f7330"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-flash text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Fast Loading&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                     <j:translation_es jcr:language="es"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                       jcr:lastModifiedBy=""
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="98c467f7-c514-4eb0-b886-af36bda05f2c"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-flash text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Fast Loading&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_de_DE jcr:language="de_DE"
-                                                         jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                         jcr:lastModifiedBy=""
-                                                         jcr:primaryType="jnt:translation"
-                                                         jcr:uuid="0ea4363c-8e11-4e6a-9209-3b70a69edbfb"
-                                                         text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-flash text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Fast Loading&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  </text>
                               </col2>
                            </media-blocks-row-1>
@@ -2082,24 +1999,12 @@
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="cccd8184-2c05-4a7e-b966-95ab9dbd08e9"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-leaf text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Renewable&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_da jcr:language="da"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="9d2241cf-4838-448f-a6bb-a363e88b216c"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-leaf text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Renewable&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                     <j:translation_es jcr:language="es"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                       jcr:lastModifiedBy=""
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="2f56df13-353b-4a73-8945-905ee199ba0f"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-leaf text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Renewable&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_de_DE jcr:language="de_DE"
-                                                         jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                         jcr:lastModifiedBy=""
-                                                         jcr:primaryType="jnt:translation"
-                                                         jcr:uuid="a8261f97-6e4b-4646-bdf1-46a9b74a558b"
-                                                         text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-leaf text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Renewable&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  </text>
                               </col0>
                               <col1 j:animation="fadeInUp"
@@ -2151,24 +2056,12 @@
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="0984a7ff-3593-428d-8c35-787797c2f39b"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-bulb text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Versatile&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_da jcr:language="da"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="6ba22cdd-916e-4a13-89df-4d01124fbbfe"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-bulb text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Versatile&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                     <j:translation_es jcr:language="es"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                       jcr:lastModifiedBy=""
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="ebc84e06-7be0-4969-99fa-957707893a52"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-bulb text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Versatile&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_de_DE jcr:language="de_DE"
-                                                         jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                         jcr:lastModifiedBy=""
-                                                         jcr:primaryType="jnt:translation"
-                                                         jcr:uuid="c7dd6212-d0d8-4318-9aed-22e31b42e574"
-                                                         text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-bulb text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Versatile&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  </text>
                               </col1>
                               <col2 j:animation="fadeInUp"
@@ -2220,24 +2113,12 @@
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="b9fb5530-b34c-4b43-be20-77223505da51"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-md-apps text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Industrial Projects&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_da jcr:language="da"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="072c8a92-e1d9-4e83-a1e7-cc3b7f97404c"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-md-apps text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Industrial Projects&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                     <j:translation_es jcr:language="es"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                       jcr:lastModifiedBy=""
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="cba836f7-6249-432b-8021-37d46056e263"
                                                       text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-md-apps text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Industrial Projects&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                    <j:translation_de_DE jcr:language="de_DE"
-                                                         jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                         jcr:lastModifiedBy=""
-                                                         jcr:primaryType="jnt:translation"
-                                                         jcr:uuid="47dcde45-cab3-44e1-b1b2-ecdfec556269"
-                                                         text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-md-apps text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Industrial Projects&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  </text>
                               </col2>
                            </media-blocks-row-2>
@@ -2323,24 +2204,12 @@
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="83db3d32-b657-4364-8028-3e511f29df68"
                                                       text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Meet The Team&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.&lt;/p&gt;&#xA;"/>
-                                    <j:translation_da jcr:language="da"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="28122f1f-1ac1-4cd4-a858-3cfeac830637"
-                                                      text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Meet The Team&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.&lt;/p&gt;&#xA;"/>
                                     <j:translation_es jcr:language="es"
                                                       jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                       jcr:lastModifiedBy=""
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="378ce681-91b8-4f6f-b7c2-2bf785d99a80"
                                                       text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Meet The Team&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.&lt;/p&gt;&#xA;"/>
-                                    <j:translation_de_DE jcr:language="de_DE"
-                                                         jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                         jcr:lastModifiedBy=""
-                                                         jcr:primaryType="jnt:translation"
-                                                         jcr:uuid="f04605f2-f3ec-4896-954e-9725ea187051"
-                                                         text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Meet The Team&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.&lt;/p&gt;&#xA;"/>
                                  </text>
                               </col0>
                            </title-row>
@@ -2407,12 +2276,6 @@
                                                       jcr:lastModifiedBy=""
                                                       jcr:primaryType="jnt:translation"
                                                       jcr:uuid="43409ef6-75c0-43a9-9445-355a631def59"/>
-                                    <j:translation_de_DE body="&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;mt-0 text-black&#34;&gt;Lily Qwan&lt;/h3&gt;&#xA;&lt;/div&gt;&#xA;"
-                                                         jcr:language="de_DE"
-                                                         jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                         jcr:lastModifiedBy=""
-                                                         jcr:primaryType="jnt:translation"
-                                                         jcr:uuid="63bae94f-d6e0-43ef-8b84-42d62afc481f"/>
                                  </lily-qwan>
                               </main>
                               <side j:originWS="default"
@@ -2547,24 +2410,12 @@
                                                 jcr:primaryType="jnt:translation"
                                                 jcr:uuid="9281a081-8cb9-46c8-a695-a95333b9a617"
                                                 text="&lt;h2 class=&#34;text-white mb-0&#34;&gt;Get Started With Industrial Free Template&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;text-white lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .&lt;/p&gt;&#xA;"/>
-                              <j:translation_da jcr:language="da"
-                                                jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                jcr:lastModifiedBy=""
-                                                jcr:primaryType="jnt:translation"
-                                                jcr:uuid="86e5f9cc-aeb0-4cf8-a33b-a70baeb97389"
-                                                text="&lt;h2 class=&#34;text-white mb-0&#34;&gt;Get Started With Industrial Free Template&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;text-white lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .&lt;/p&gt;&#xA;"/>
                               <j:translation_es jcr:language="es"
                                                 jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                 jcr:lastModifiedBy=""
                                                 jcr:primaryType="jnt:translation"
                                                 jcr:uuid="6b252bda-05f0-4b6f-9de3-6c4b7f0e60ce"
                                                 text="&lt;h2 class=&#34;text-white mb-0&#34;&gt;Get Started With Industrial Free Template&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;text-white lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .&lt;/p&gt;&#xA;"/>
-                              <j:translation_de_DE jcr:language="de_DE"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="a9894c0c-08e3-4be0-88d5-19a523870812"
-                                                   text="&lt;h2 class=&#34;text-white mb-0&#34;&gt;Get Started With Industrial Free Template&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;text-white lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .&lt;/p&gt;&#xA;"/>
                            </text>
                         </col0>
                         <col1 j:originWS="default"
@@ -2611,24 +2462,12 @@
                                                 jcr:primaryType="jnt:translation"
                                                 jcr:uuid="89688ef1-487c-4a47-8de7-54e37b5daee7"
                                                 text="&lt;p&gt;&lt;a class=&#34;btn btn-outline-white px-4 py-3&#34; href=&#34;https://free-template.co/&#34;&gt;Download This Template&lt;/a&gt;&lt;/p&gt;&#xA;"/>
-                              <j:translation_da jcr:language="da"
-                                                jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                jcr:lastModifiedBy=""
-                                                jcr:primaryType="jnt:translation"
-                                                jcr:uuid="109b27c4-465b-478a-a8dd-2d309c0b4be0"
-                                                text="&lt;p&gt;&lt;a class=&#34;btn btn-outline-white px-4 py-3&#34; href=&#34;https://free-template.co/&#34;&gt;Download This Template&lt;/a&gt;&lt;/p&gt;&#xA;"/>
                               <j:translation_es jcr:language="es"
                                                 jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                 jcr:lastModifiedBy=""
                                                 jcr:primaryType="jnt:translation"
                                                 jcr:uuid="f306fd0c-4ae7-4d8e-8817-007f309f4c3f"
                                                 text="&lt;p&gt;&lt;a class=&#34;btn btn-outline-white px-4 py-3&#34; href=&#34;https://free-template.co/&#34;&gt;Download This Template&lt;/a&gt;&lt;/p&gt;&#xA;"/>
-                              <j:translation_de_DE jcr:language="de_DE"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="54586fcd-6fee-4cf4-8a45-1731d890f876"
-                                                   text="&lt;p&gt;&lt;a class=&#34;btn btn-outline-white px-4 py-3&#34; href=&#34;https://free-template.co/&#34;&gt;Download This Template&lt;/a&gt;&lt;/p&gt;&#xA;"/>
                            </text>
                         </col1>
                      </bandeau-section>
@@ -2662,13 +2501,6 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Industrial Template Overview"
                                  jcr:uuid="f3c0bddd-1391-461e-ac4d-157e9325f27e"/>
-               <j:translation_da jcr:language="da"
-                                 jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                 jcr:lastModifiedBy=""
-                                 jcr:mixinTypes="mix:title"
-                                 jcr:primaryType="jnt:translation"
-                                 jcr:title="Industrial Template Overview"
-                                 jcr:uuid="0534df11-4c27-4127-8e30-41c45b924f66"/>
                <j:translation_es jcr:language="es"
                                  jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                  jcr:lastModifiedBy=""
@@ -2676,13 +2508,6 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Industrial Template Overview"
                                  jcr:uuid="a0ba7d69-0634-44b1-81ce-8a624acee62e"/>
-               <j:translation_de_DE jcr:language="de_DE"
-                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                    jcr:lastModifiedBy=""
-                                    jcr:mixinTypes="mix:title"
-                                    jcr:primaryType="jnt:translation"
-                                    jcr:title="Industrial Template Overview"
-                                    jcr:uuid="cd3f7840-1702-4636-b12d-ff53e4d2bf75"/>
                <pagecontent j:originWS="default"
                             jcr:created="2023-04-12T16:05:24.952+02:00"
                             jcr:createdBy="system"
@@ -2749,14 +2574,6 @@
                                           jcr:primaryType="jnt:translation"
                                           jcr:title="The Best Level of Excellence in Steel Fabrication"
                                           jcr:uuid="c4ebfbd4-bd8e-409b-bf7d-54213855dfeb"/>
-                        <j:translation_da caption="&lt;h1 class=&#34;mb-4&#34;&gt;&lt;span&gt;The Best Level of Excellence in Steel Fabrication&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias iste ipsa excepturi nostrum sequi molestias?&lt;/p&gt;&#xA;"
-                                          jcr:language="da"
-                                          jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                          jcr:lastModifiedBy=""
-                                          jcr:mixinTypes="mix:title"
-                                          jcr:primaryType="jnt:translation"
-                                          jcr:title="The Best Level of Excellence in Steel Fabrication"
-                                          jcr:uuid="61e7305f-d589-433d-acd7-aed9ad8ec4ed"/>
                         <j:translation_es caption="&lt;h1 class=&#34;mb-4&#34;&gt;&lt;span&gt;The Best Level of Excellence in Steel Fabrication&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias iste ipsa excepturi nostrum sequi molestias?&lt;/p&gt;&#xA;"
                                           jcr:language="es"
                                           jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -2765,14 +2582,6 @@
                                           jcr:primaryType="jnt:translation"
                                           jcr:title="The Best Level of Excellence in Steel Fabrication"
                                           jcr:uuid="0113bf0d-62c3-479b-8155-ae0580d1b966"/>
-                        <j:translation_de_DE caption="&lt;h1 class=&#34;mb-4&#34;&gt;&lt;span&gt;The Best Level of Excellence in Steel Fabrication&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias iste ipsa excepturi nostrum sequi molestias?&lt;/p&gt;&#xA;"
-                                             jcr:language="de_DE"
-                                             jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                             jcr:lastModifiedBy=""
-                                             jcr:mixinTypes="mix:title"
-                                             jcr:primaryType="jnt:translation"
-                                             jcr:title="The Best Level of Excellence in Steel Fabrication"
-                                             jcr:uuid="c0343550-877e-4848-a8e3-07b9d5475c30"/>
                      </the-best-level-of-excellence-in>
                      <we-are-industrial-company image="#/sites/industrial/files/images/industry/hero_1.jpg"
                                                 j:originWS="default"
@@ -2829,15 +2638,6 @@
                                           jcr:title="We Are Industrial Company"
                                           jcr:uuid="1b79df61-c2b9-40d5-9435-a91ed5347dcd"
                                           ti:video="https://vimeo.com/59256790"/>
-                        <j:translation_da caption="&lt;h1 class=&#34;mb-4&#34;&gt;&lt;span&gt;We Are Industrial Company&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias iste ipsa excepturi nostrum sequi molestias?&lt;/p&gt;&#xA;"
-                                          jcr:language="da"
-                                          jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                          jcr:lastModifiedBy=""
-                                          jcr:mixinTypes="mix:title"
-                                          jcr:primaryType="jnt:translation"
-                                          jcr:title="We Are Industrial Company"
-                                          jcr:uuid="59eb9652-c140-44f1-a447-65b760ba0b95"
-                                          ti:video="https://vimeo.com/59256790"/>
                         <j:translation_es caption="&lt;h1 class=&#34;mb-4&#34;&gt;&lt;span&gt;We Are Industrial Company&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias iste ipsa excepturi nostrum sequi molestias?&lt;/p&gt;&#xA;"
                                           jcr:language="es"
                                           jcr:lastModified="2023-04-12T16:05:26.638+02:00"
@@ -2847,15 +2647,6 @@
                                           jcr:title="We Are Industrial Company"
                                           jcr:uuid="c17478db-aefe-4f7a-a535-67163b3cc09a"
                                           ti:video="https://vimeo.com/59256790"/>
-                        <j:translation_de_DE caption="&lt;h1 class=&#34;mb-4&#34;&gt;&lt;span&gt;We Are Industrial Company&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 w-75&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias iste ipsa excepturi nostrum sequi molestias?&lt;/p&gt;&#xA;"
-                                             jcr:language="de_DE"
-                                             jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                             jcr:lastModifiedBy=""
-                                             jcr:mixinTypes="mix:title"
-                                             jcr:primaryType="jnt:translation"
-                                             jcr:title="We Are Industrial Company"
-                                             jcr:uuid="3a63e351-8171-4501-a362-70ad2c9ba064"
-                                             ti:video="https://vimeo.com/59256790"/>
                      </we-are-industrial-company>
                   </heading-carousel>
                   <features-section gridLayout="fixed-width"
@@ -2933,24 +2724,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="c4846f3d-7a62-49a4-9017-d1a5580ceca5"
                                                    text="&lt;h2&gt;We&amp;#39;ll Handle Any Problems and Solve Them&lt;/h2&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="a942b08e-ddca-4464-abac-9e68bef9f006"
-                                                   text="&lt;h2&gt;We&amp;#39;ll Handle Any Problems and Solve Them&lt;/h2&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="7fdcfd60-c938-4a88-ade2-4fe0adcec2bf"
                                                    text="&lt;h2&gt;We&amp;#39;ll Handle Any Problems and Solve Them&lt;/h2&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="0dd3b945-5238-408e-9978-9874a31b8186"
-                                                      text="&lt;h2&gt;We&amp;#39;ll Handle Any Problems and Solve Them&lt;/h2&gt;&#xA;"/>
                               </text>
                            </col0>
                         </title-row>
@@ -3011,24 +2790,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="533ba610-a1b9-49e4-b028-14d02c3ca7bf"
                                                    text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-easel display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Ducting Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="3cd40514-caba-4ff3-ad18-4bbe4f3c569b"
-                                                   text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-easel display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Ducting Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="243dd899-c40f-40dc-98a8-52ac4e39bba7"
                                                    text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-easel display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Ducting Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="215df6d0-d0b7-404a-bbf9-764246c7488c"
-                                                      text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-easel display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Ducting Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                               </text>
                               <text-1 j:originWS="default"
                                       jcr:created="2023-04-12T16:05:24.964+02:00"
@@ -3067,24 +2834,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="bebbf52e-abd8-4749-b3a1-18f342914096"
                                                    text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-hammer display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Stacks Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="6921ef43-a0f4-40c3-b73d-55754fbf049d"
-                                                   text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-hammer display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Stacks Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="835c0673-8b57-40a6-a38e-911a6a892bcc"
                                                    text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-hammer display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Stacks Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="d9b97d83-7ed5-46e2-aeea-2cda071583e4"
-                                                      text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-hammer display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Stacks Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                               </text-1>
                            </col1>
                            <col2 j:originWS="default"
@@ -3131,24 +2886,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="860bd329-a547-4077-947d-4eb4227a68e0"
                                                    text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-cube display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Tanks Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="0684936d-4dd0-4feb-94cc-6057ba684ace"
-                                                   text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-cube display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Tanks Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="69ad340f-6164-40f0-83f8-776d3f433249"
                                                    text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-cube display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Tanks Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="2a980870-42af-4b64-b95c-27388b14cef3"
-                                                      text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-cube display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Tanks Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                               </text-1>
                               <text-2 j:originWS="default"
                                       jcr:created="2023-04-12T16:05:24.969+02:00"
@@ -3187,24 +2930,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="26190744-0818-4241-be8e-71accd517c60"
                                                    text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-clipboard display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Structural Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="218860cd-16f9-4117-bcd6-0741e661290c"
-                                                   text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-clipboard display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Structural Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="2d455ddf-fdc0-465a-bbff-51a11075a5ef"
                                                    text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-clipboard display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Structural Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="5244013a-41d0-46d5-a1e7-afe077c4d32c"
-                                                      text="&lt;div class=&#34;feature-1 d-md-flex&#34;&gt;&#xA;&lt;div class=&#34;align-self-center&#34;&gt;&lt;span class=&#34;ion ion-ios-clipboard display-4 text-primary&#34;&gt;&lt;/span&gt;&#xA;&lt;h3&gt;Structural Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                               </text-2>
                            </col2>
                            <col0 j:originWS="default"
@@ -3307,24 +3038,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="786cd8f2-a7fd-47ad-a123-168a76427f8e"
                                                    text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-notifications text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Modern Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="32d3a26e-bfb3-4060-89ff-1c44f1a481e1"
-                                                   text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-notifications text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Modern Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="d2be4655-1178-49a3-b163-9c78dbdc7691"
                                                    text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-notifications text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Modern Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="dc467acc-5482-4d92-9dac-aeff67cf8ece"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-notifications text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Modern Design&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                               </text>
                            </col0>
                            <col1 j:animation="fadeInUp"
@@ -3376,24 +3095,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="8bff4cd2-e96f-4283-b1dd-e0cb8cc93707"
                                                    text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-heart text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Built With Passion&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="8246d760-e1ca-497e-ac9a-19518bd88035"
-                                                   text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-heart text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Built With Passion&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="d528410b-7fb4-4d66-9a69-533b344ffce6"
                                                    text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-heart text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Built With Passion&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="11ad3f25-49fe-483a-9c9a-f941398daa8a"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-heart text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Built With Passion&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                               </text>
                            </col1>
                            <col2 j:animation="fadeInUp"
@@ -3445,24 +3152,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="3dc92d2e-e1d5-462a-84e5-fd4ba2900b35"
                                                    text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-flash text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Fast Loading&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="ade35ddb-c2be-407b-a4cf-76300d678ddd"
-                                                   text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-flash text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Fast Loading&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="efa45073-894c-4ba8-88e6-a2bc7166888e"
                                                    text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-flash text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Fast Loading&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="c68824f0-6f4f-42be-825c-cd3aaf038d33"
-                                                      text="&lt;div class=&#34;media block-6 d-block text-center&#34;&gt;&#xA;&lt;div class=&#34;icon mb-3&#34;&gt;&lt;span class=&#34;ion-ios-flash text-primary&#34;&gt;&lt;/span&gt;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-body&#34;&gt;&#xA;&lt;h3 class=&#34;heading&#34;&gt;Fast Loading&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                               </text>
                            </col2>
                         </media-blocks-row-1>
@@ -3556,24 +3251,12 @@
                                              jcr:primaryType="jnt:translation"
                                              jcr:uuid="fda33c65-5b7d-4a66-b86b-972e15fd6b24"
                                              text="&lt;div class=&#34;block-41&#34;&gt;&#xA;&lt;h2 class=&#34;block-41-heading mb-5&#34;&gt;Let&amp;#39;s Build Together&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;block-41-text&#34;&gt;&#xA;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;readmore&#34; href=&#34;#&#34;&gt;Read More &lt;span class=&#34;ion-md-arrow-dropright-circle&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                           <j:translation_da jcr:language="da"
-                                             jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                             jcr:lastModifiedBy=""
-                                             jcr:primaryType="jnt:translation"
-                                             jcr:uuid="a08cbb0d-2949-46bc-8aa2-ab907f085748"
-                                             text="&lt;div class=&#34;block-41&#34;&gt;&#xA;&lt;h2 class=&#34;block-41-heading mb-5&#34;&gt;Let&amp;#39;s Build Together&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;block-41-text&#34;&gt;&#xA;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;readmore&#34; href=&#34;#&#34;&gt;Read More &lt;span class=&#34;ion-md-arrow-dropright-circle&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                            <j:translation_es jcr:language="es"
                                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                              jcr:lastModifiedBy=""
                                              jcr:primaryType="jnt:translation"
                                              jcr:uuid="8facc4e2-1338-42b3-b381-382397325686"
                                              text="&lt;div class=&#34;block-41&#34;&gt;&#xA;&lt;h2 class=&#34;block-41-heading mb-5&#34;&gt;Let&amp;#39;s Build Together&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;block-41-text&#34;&gt;&#xA;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;readmore&#34; href=&#34;#&#34;&gt;Read More &lt;span class=&#34;ion-md-arrow-dropright-circle&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                           <j:translation_de_DE jcr:language="de_DE"
-                                                jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                jcr:lastModifiedBy=""
-                                                jcr:primaryType="jnt:translation"
-                                                jcr:uuid="78628f27-d716-4e2d-b9af-56a56cb3efb5"
-                                                text="&lt;div class=&#34;block-41&#34;&gt;&#xA;&lt;h2 class=&#34;block-41-heading mb-5&#34;&gt;Let&amp;#39;s Build Together&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;block-41-text&#34;&gt;&#xA;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;readmore&#34; href=&#34;#&#34;&gt;Read More &lt;span class=&#34;ion-md-arrow-dropright-circle&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                         </text>
                      </col1>
                   </article-left-section>
@@ -3665,24 +3348,12 @@
                                              jcr:primaryType="jnt:translation"
                                              jcr:uuid="de4d7581-2ac1-46ab-88a1-6e233297ea09"
                                              text="&lt;div class=&#34;block-41&#34;&gt;&#xA;&lt;h2 class=&#34;block-41-heading mb-5&#34;&gt;We&amp;#39;ll handle any intercate custom design&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;block-41-text&#34;&gt;&#xA;&lt;p&gt;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;readmore&#34; href=&#34;#&#34;&gt;Read More &lt;span class=&#34;ion-md-arrow-dropright-circle&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                           <j:translation_da jcr:language="da"
-                                             jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                             jcr:lastModifiedBy=""
-                                             jcr:primaryType="jnt:translation"
-                                             jcr:uuid="5947d10f-1060-4b57-885c-09e8a44cac6a"
-                                             text="&lt;div class=&#34;block-41&#34;&gt;&#xA;&lt;h2 class=&#34;block-41-heading mb-5&#34;&gt;We&amp;#39;ll handle any intercate custom design&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;block-41-text&#34;&gt;&#xA;&lt;p&gt;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;readmore&#34; href=&#34;#&#34;&gt;Read More &lt;span class=&#34;ion-md-arrow-dropright-circle&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                            <j:translation_es jcr:language="es"
                                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                              jcr:lastModifiedBy=""
                                              jcr:primaryType="jnt:translation"
                                              jcr:uuid="4213c40b-efa8-4a44-88a6-9106b1a7e052"
                                              text="&lt;div class=&#34;block-41&#34;&gt;&#xA;&lt;h2 class=&#34;block-41-heading mb-5&#34;&gt;We&amp;#39;ll handle any intercate custom design&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;block-41-text&#34;&gt;&#xA;&lt;p&gt;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;readmore&#34; href=&#34;#&#34;&gt;Read More &lt;span class=&#34;ion-md-arrow-dropright-circle&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
-                           <j:translation_de_DE jcr:language="de_DE"
-                                                jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                jcr:lastModifiedBy=""
-                                                jcr:primaryType="jnt:translation"
-                                                jcr:uuid="e7e8b0ee-0f5d-422d-95ce-8aeb2d051511"
-                                                text="&lt;div class=&#34;block-41&#34;&gt;&#xA;&lt;h2 class=&#34;block-41-heading mb-5&#34;&gt;We&amp;#39;ll handle any intercate custom design&lt;/h2&gt;&#xA;&#xA;&lt;div class=&#34;block-41-text&#34;&gt;&#xA;&lt;p&gt;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;readmore&#34; href=&#34;#&#34;&gt;Read More &lt;span class=&#34;ion-md-arrow-dropright-circle&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;"/>
                         </text>
                      </col1>
                   </article-right-section>
@@ -3766,24 +3437,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="945ef68d-334d-494e-b065-4046c5da96f6"
                                                    text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Projects&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="ed1d0bca-fd25-404d-9e5c-e6f0878e268c"
-                                                   text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Projects&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="570ea57e-f0d0-49a0-a5a7-a139a2755ed9"
                                                    text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Projects&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="cbec87a7-7e9d-49d1-95e4-517066b72925"
-                                                      text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Projects&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;mb-5 lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;&#xA;"/>
                               </heading>
                            </col0>
                         </content-row>
@@ -3870,14 +3529,6 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:title="Ducting Design in Colorado"
                                                    jcr:uuid="c8537bca-e8e0-41c0-9bf8-73bfc8573498"/>
-                                 <j:translation_de_DE heading="Ducting Design in Colorado"
-                                                      jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:mixinTypes="mix:title"
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:title="Ducting Design in Colorado"
-                                                      jcr:uuid="212b3e64-01e1-4a7c-99fa-a7015f80fd21"/>
                               </ducting-design-in-colorado>
                            </col0>
                            <col1 j:animation="fadeInUp"
@@ -3949,14 +3600,6 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:title="Tanks Project In California"
                                                    jcr:uuid="db1c4337-25fa-49b3-a567-f0f03e5c651a"/>
-                                 <j:translation_de_DE heading="Tanks Project In California"
-                                                      jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:mixinTypes="mix:title"
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:title="Tanks Project In California"
-                                                      jcr:uuid="7a11ceb4-cc15-4db7-bfe4-353d604b75ed"/>
                               </tanks-project-in-california>
                            </col1>
                            <col2 j:animation="fadeInUp"
@@ -4028,14 +3671,6 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:title="Structural Design in New York"
                                                    jcr:uuid="01d00b9f-e9fe-46c0-ac62-ba6314cfee8b"/>
-                                 <j:translation_de_DE heading="Structural Design in New York"
-                                                      jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:mixinTypes="mix:title"
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:title="Structural Design in New York"
-                                                      jcr:uuid="271ab040-dc08-4d99-9e65-8c0fa9b5613b"/>
                               </structural-design-in-new-york>
                            </col2>
                            <col3 j:animation="fadeInUp"
@@ -4107,14 +3742,6 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:title="Stacks Design"
                                                    jcr:uuid="d6febb3d-830b-4c58-908b-a4367a3f827f"/>
-                                 <j:translation_de_DE heading="Stacks Design"
-                                                      jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:mixinTypes="mix:title"
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:title="Stacks Design"
-                                                      jcr:uuid="39d26b4f-7b4f-4b83-bce2-12ae9cc48d0d"/>
                               </stacks-design>
                            </col3>
                            <col4 j:animation="fadeInUp"
@@ -4186,14 +3813,6 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:title="Intercate Custom"
                                                    jcr:uuid="68b1d594-8507-41bb-b9fc-9f30629e9128"/>
-                                 <j:translation_de_DE heading="Intercate Custom"
-                                                      jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:mixinTypes="mix:title"
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:title="Intercate Custom"
-                                                      jcr:uuid="857e0ac7-50d6-4a2a-9993-8587bc630bbf"/>
                               </intercate-custom>
                            </col4>
                            <col5 j:animation="fadeInUp"
@@ -4265,14 +3884,6 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:title="Banker Design"
                                                    jcr:uuid="57f35b11-1e1b-4a83-b805-2fe6e8b09bf2"/>
-                                 <j:translation_de_DE heading="Banker Design"
-                                                      jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:mixinTypes="mix:title"
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:title="Banker Design"
-                                                      jcr:uuid="8786acdc-a782-460c-bc51-d79def0764d2"/>
                               </banker-design>
                            </col5>
                         </container-gallery>
@@ -4353,24 +3964,12 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="233f18dd-3c9f-47aa-a809-ff25063aaf8a"
                                                    text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Testimonial&lt;/h2&gt;&#xA;"/>
-                                 <j:translation_da jcr:language="da"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:uuid="fc96f32e-aece-4f9d-803e-89e52f3efb6f"
-                                                   text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Testimonial&lt;/h2&gt;&#xA;"/>
                                  <j:translation_es jcr:language="es"
                                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                                    jcr:lastModifiedBy=""
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="0e8fe1c9-159d-46b6-8b5a-c3328d1628fd"
                                                    text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Testimonial&lt;/h2&gt;&#xA;"/>
-                                 <j:translation_de_DE jcr:language="de_DE"
-                                                      jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                      jcr:lastModifiedBy=""
-                                                      jcr:primaryType="jnt:translation"
-                                                      jcr:uuid="fcd3cb90-9bf4-402c-bd66-8a66388f176d"
-                                                      text="&lt;h2 class=&#34;heading mb-4&#34;&gt;Testimonial&lt;/h2&gt;&#xA;"/>
                               </text>
                            </col0>
                         </testimonial-title>
@@ -4447,15 +4046,6 @@
                                                 jcr:title="John Smith"
                                                 jcr:uuid="24227f84-ce57-42c0-99c3-58f5f3d3b824"
                                                 testimonial="&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;rdquo; The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. &amp;ldquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;"/>
-                              <j:translation_de_DE heading="&lt;div class=&#34;name-text align-self-center&#34;&gt;&#xA;&lt;h2 class=&#34;heading&#34;&gt;John Smith&lt;/h2&gt;&#xA;&lt;span class=&#34;meta&#34;&gt;Free-Template.co Client&lt;/span&gt;&lt;/div&gt;"
-                                                   jcr:language="de_DE"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:mixinTypes="mix:title"
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:title="John Smith"
-                                                   jcr:uuid="0f91ffa1-c474-4745-b823-241a73a9726d"
-                                                   testimonial="&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;rdquo; The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. &amp;ldquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;"/>
                            </john-smith>
                            <lily-qwan avatar="#/sites/industrial/files/images/person/person_13.jpg"
                                       j:originWS="default"
@@ -4519,15 +4109,6 @@
                                                 jcr:title="Lily Qwan"
                                                 jcr:uuid="d7df934b-21e4-4281-bdf9-8539b153a345"
                                                 testimonial="&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;rdquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. &amp;ldquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;"/>
-                              <j:translation_de_DE heading="&lt;div class=&#34;name-text align-self-center&#34;&gt;&#xA;&lt;h2 class=&#34;heading&#34;&gt;Lily Qwan&lt;/h2&gt;&#xA;&lt;span class=&#34;meta&#34;&gt;Free-Template.co Client&lt;/span&gt;&lt;/div&gt;"
-                                                   jcr:language="de_DE"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:mixinTypes="mix:title"
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:title="Lily Qwan"
-                                                   jcr:uuid="5bc09bf7-5e2a-43f2-9bf4-e28be7ba7517"
-                                                   testimonial="&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;rdquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. &amp;ldquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;"/>
                            </lily-qwan>
                            <joshua-darren avatar="#/sites/industrial/files/images/person/person_15.jpg"
                                           j:originWS="default"
@@ -4591,15 +4172,6 @@
                                                 jcr:title="Joshua Darren"
                                                 jcr:uuid="19fc908d-b6e1-4193-9cc6-d9df6c1b5048"
                                                 testimonial="&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;rdquo; Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. &amp;ldquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;"/>
-                              <j:translation_de_DE heading="&lt;div class=&#34;name-text align-self-center&#34;&gt;&#xA;&lt;h2 class=&#34;heading&#34;&gt;Joshua Darren&lt;/h2&gt;&#xA;&lt;span class=&#34;meta&#34;&gt;IT-advisor.io Partner&lt;/span&gt;&lt;/div&gt;"
-                                                   jcr:language="de_DE"
-                                                   jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                   jcr:lastModifiedBy=""
-                                                   jcr:mixinTypes="mix:title"
-                                                   jcr:primaryType="jnt:translation"
-                                                   jcr:title="Joshua Darren"
-                                                   jcr:uuid="7b660a0e-6780-4cf7-82e5-91b9be321fbf"
-                                                   testimonial="&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;rdquo; Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. &amp;ldquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;"/>
                            </joshua-darren>
                         </owl-carousel>
                      </main>
@@ -4664,24 +4236,12 @@
                                              jcr:primaryType="jnt:translation"
                                              jcr:uuid="c43e8ac7-f349-4dae-9f5b-ebfa21374acb"
                                              text="&lt;h2 class=&#34;text-white mb-0&#34;&gt;Get Started With Industrial Free Template&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;text-white lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .&lt;/p&gt;&#xA;"/>
-                           <j:translation_da jcr:language="da"
-                                             jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                             jcr:lastModifiedBy=""
-                                             jcr:primaryType="jnt:translation"
-                                             jcr:uuid="a98e48fd-2fc5-472e-abcc-08129c9021f8"
-                                             text="&lt;h2 class=&#34;text-white mb-0&#34;&gt;Get Started With Industrial Free Template&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;text-white lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .&lt;/p&gt;&#xA;"/>
                            <j:translation_es jcr:language="es"
                                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                              jcr:lastModifiedBy=""
                                              jcr:primaryType="jnt:translation"
                                              jcr:uuid="639d8334-1882-4be3-8bc9-5909ae7504e2"
                                              text="&lt;h2 class=&#34;text-white mb-0&#34;&gt;Get Started With Industrial Free Template&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;text-white lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .&lt;/p&gt;&#xA;"/>
-                           <j:translation_de_DE jcr:language="de_DE"
-                                                jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                jcr:lastModifiedBy=""
-                                                jcr:primaryType="jnt:translation"
-                                                jcr:uuid="dc17ced5-0504-4a0e-9575-229a678f8da4"
-                                                text="&lt;h2 class=&#34;text-white mb-0&#34;&gt;Get Started With Industrial Free Template&lt;/h2&gt;&#xA;&#xA;&lt;p class=&#34;text-white lead&#34;&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .&lt;/p&gt;&#xA;"/>
                         </text>
                      </col0>
                      <col1 j:originWS="default"
@@ -4728,24 +4288,12 @@
                                              jcr:primaryType="jnt:translation"
                                              jcr:uuid="1b5a81f7-37f1-47f5-80f7-de8b339ec317"
                                              text="&lt;p&gt;&lt;a class=&#34;btn btn-outline-white px-4 py-3&#34; href=&#34;https://free-template.co/&#34;&gt;Download This Template&lt;/a&gt;&lt;/p&gt;&#xA;"/>
-                           <j:translation_da jcr:language="da"
-                                             jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                             jcr:lastModifiedBy=""
-                                             jcr:primaryType="jnt:translation"
-                                             jcr:uuid="2f0515d5-72fb-484a-ba5a-94c35d067c76"
-                                             text="&lt;p&gt;&lt;a class=&#34;btn btn-outline-white px-4 py-3&#34; href=&#34;https://free-template.co/&#34;&gt;Download This Template&lt;/a&gt;&lt;/p&gt;&#xA;"/>
                            <j:translation_es jcr:language="es"
                                              jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                              jcr:lastModifiedBy=""
                                              jcr:primaryType="jnt:translation"
                                              jcr:uuid="181532ed-2819-438e-a89a-085a793e642a"
                                              text="&lt;p&gt;&lt;a class=&#34;btn btn-outline-white px-4 py-3&#34; href=&#34;https://free-template.co/&#34;&gt;Download This Template&lt;/a&gt;&lt;/p&gt;&#xA;"/>
-                           <j:translation_de_DE jcr:language="de_DE"
-                                                jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                                jcr:lastModifiedBy=""
-                                                jcr:primaryType="jnt:translation"
-                                                jcr:uuid="ee724c05-b873-424a-ac75-742b9ac0bb8d"
-                                                text="&lt;p&gt;&lt;a class=&#34;btn btn-outline-white px-4 py-3&#34; href=&#34;https://free-template.co/&#34;&gt;Download This Template&lt;/a&gt;&lt;/p&gt;&#xA;"/>
                         </text>
                      </col1>
                   </bandeau-section>
@@ -4795,13 +4343,6 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Veterinary"
                                  jcr:uuid="d55a4983-77a2-4c58-b38f-d332dbb26754"/>
-               <j:translation_da jcr:language="da"
-                                 jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                 jcr:lastModifiedBy=""
-                                 jcr:mixinTypes="mix:title"
-                                 jcr:primaryType="jnt:translation"
-                                 jcr:title="Veterinary"
-                                 jcr:uuid="d933381d-2358-4165-9d4b-37a9c703df2f"/>
                <j:translation_es jcr:language="es"
                                  jcr:lastModified="2023-04-12T16:05:26.638+02:00"
                                  jcr:lastModifiedBy=""
@@ -4809,13 +4350,6 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Veterinary"
                                  jcr:uuid="59d62f30-646f-495b-a690-1de489b81d8e"/>
-               <j:translation_de_DE jcr:language="de_DE"
-                                    jcr:lastModified="2023-04-12T16:05:26.638+02:00"
-                                    jcr:lastModifiedBy=""
-                                    jcr:mixinTypes="mix:title"
-                                    jcr:primaryType="jnt:translation"
-                                    jcr:title="Veterinary"
-                                    jcr:uuid="8ee3ed42-c6e7-4c5e-b22d-82c998dc1053"/>
                <page-heading j:originWS="default"
                              jcr:created="2023-04-14T17:04:10.671+02:00"
                              jcr:createdBy="root"
