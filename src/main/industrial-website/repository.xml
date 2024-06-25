@@ -1312,8 +1312,8 @@
                                  jcr:title="actualités"
                                  jcr:uuid="da0a19f0-2046-4763-a5a2-36e964db0525"/>
                <iron-ore-prices-surge-amidst-glo date="2023-10-17T15:22:43.581Z"
-                                                 imageLandscape="#/sites/industrial/files/images/industry/hero_2.jpg"
-                                                 imagePortrait="#/sites/industrial/files/images/industry/gallery_3.jpg"
+                                                 images="#/sites/industrial/files/images/industry/hero_2.jpg"
+                                                 image="#/sites/industrial/files/images/industry/gallery_3.jpg"
                                                  j:lastPublished="2023-10-18T12:51:52.057Z"
                                                  j:lastPublishedBy="root"
                                                  j:originWS="default"
@@ -1348,8 +1348,8 @@
                                     teaser="&lt;p&gt;The iron industry is experiencing a significant upturn as iron ore prices surge to multi-year highs. This surge is primarily driven by robust global demand for steel, especially from the construction and infrastructure sectors.&lt;/p&gt;&#xA;"/>
                </iron-ore-prices-surge-amidst-glo>
                <sustainability-takes-center-stag date="2023-10-17T15:29:59.168Z"
-                                                 imageLandscape="#/sites/industrial/files/images/industry/hero_1.jpg"
-                                                 imagePortrait="#/sites/industrial/files/images/industry/blog_3.jpg"
+                                                 images="#/sites/industrial/files/images/industry/hero_1.jpg"
+                                                 image="#/sites/industrial/files/images/industry/blog_3.jpg"
                                                  j:lastPublished="2023-10-18T12:51:52.057Z"
                                                  j:lastPublishedBy="root"
                                                  j:originWS="default"
@@ -1384,8 +1384,8 @@
                                     teaser="&lt;p&gt;Amid growing environmental concerns, the iron industry is undergoing a transformation towards more sustainable practices. Key players in the industry are adopting greener technologies and processes to reduce carbon emissions and minimize the environmental impact of iron production.&lt;/p&gt;&#xA;"/>
                </sustainability-takes-center-stag>
                <geopolitical-tensions-affect-glo date="2023-10-17T15:31:32.825Z"
-                                                 imageLandscape="#/sites/industrial/files/images/industry/hero_3.jpg"
-                                                 imagePortrait="#/sites/industrial/files/images/industry/blog_2.jpg"
+                                                 images="#/sites/industrial/files/images/industry/hero_3.jpg"
+                                                 image="#/sites/industrial/files/images/industry/blog_2.jpg"
                                                  j:lastPublished="2023-10-18T12:51:52.057Z"
                                                  j:lastPublishedBy="root"
                                                  j:originWS="default"
